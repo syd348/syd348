@@ -2,6 +2,8 @@
 
 ![syd348's GitHub stats](https://github-readme-stats.vercel.app/api?username=syd348&show_icons=true&theme=radical)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 **syd348/syd348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
